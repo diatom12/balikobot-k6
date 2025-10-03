@@ -1,0 +1,6 @@
+dist
+libs
+node_modules
+temp
+src/schemas
+webpack.config.js
